@@ -9,9 +9,9 @@ public class ArrayEqualDemo
         int[] arra = new int [] {1, 2, 3, 4}; 
         int[] arrb = new int [] {1, 2, 3, 4}; 
           
-        System.out.println("is arr1 equals to arr2 : " + 
+        System.out.println("is arra equals to arrb : " + 
                                 Arrays.equals(arra, arrb)); 
-        System.out.println("is arr1 equals to arr3 : " + 
+        System.out.println("is arra equals to arrb : " + 
                                 Arrays.equals(arra, arrb)); 
     } 
 } 
