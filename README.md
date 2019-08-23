@@ -5,7 +5,6 @@ public class ArrayEqualDemo
 { 
     public static void main(String[] args)  
     { 
-        // Let us create different integers arrays 
         int[] arra = new int [] {1, 2, 3, 4}; 
         int[] arrb = new int [] {1, 2, 3, 4}; 
           
