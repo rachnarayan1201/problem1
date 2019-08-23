@@ -10,7 +10,7 @@ public class ArrayEqualDemo
           
         System.out.println("is arra equals to arrb : " + 
                                 Arrays.equals(arra, arrb)); 
-        System.out.println("is arra equals to arrb : " + 
+        System.out.println("is arra not equals to arrb : " + 
                                 Arrays.equals(arra, arrb)); 
     } 
 } 
